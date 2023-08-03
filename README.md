@@ -14,5 +14,6 @@ Thank you for taking interest in Nicholas' GitHub Portfolio. In this Repository 
      > Spreadsheet tools for data analysis.
    
     Soon to come: Excel, SQL, Tableau, and Python Projects and Course Notes. 
-     > See Tableau Public Profile for Projects, notes for Excel and SQL and Tableau coming soon.
+     > See Tableau Public Profile for Projects.
+     > Notes for Excel and SQL and Tableau coming soon.
      > All portions completed, except Python which is currently in progress. 
