@@ -15,5 +15,7 @@ Thank you for taking interest in Nicholas' GitHub Portfolio. In this Repository 
    
     Soon to come: Excel, SQL, Tableau, and Python Projects and Course Notes. 
      > See Tableau Public Profile for Projects.
+     
      > Notes for Excel and SQL and Tableau coming soon.
+     
      > All portions completed, except Python which is currently in progress. 
