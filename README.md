@@ -14,9 +14,12 @@ Thank you for taking interest in Nicholas' GitHub Portfolio. In this Repository 
      > Spreadsheet tools for data analysis.
 5. Excel Functions and Formulas
      > An indepth look at the various functions and formulas available for analysis in Excel.
-     > Projects 5.1, 5.2, and 5.3 are referenced in the text to showcase technical skills taken away from the lesson.
+6. Cleaning and Formatting Data in Excel
+     > In this lesson we dive into Data Analysis with Excel using all of the tools from our previous lessons. Here we highlight tools for the second step, Cleaning data. In this step we prepare a dataset for analysis.
+7. Data Analysis with Excel
+     > Following the last lesson, we highlight PivotTables and Dynamic Formulas in Excel to summarize and reorganize the data based on the need at hand.     
+8. Projects showcasing technical skills with the Functions and Formulas of Excel.
      
-      
     Soon to come: Excel, SQL, Tableau, and Python Projects and Course Notes. 
      > See Tableau Public Profile for Projects.
      
