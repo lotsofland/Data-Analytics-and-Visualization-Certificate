@@ -19,6 +19,7 @@ Thank you for taking interest in Nicholas' GitHub Portfolio. In this Repository 
 7. Data Analysis with Excel
      > Following the last lesson, we highlight PivotTables and Dynamic Formulas in Excel to summarize and reorganize the data based on the need at hand.     
 8. Projects showcasing technical skills with the Functions and Formulas of Excel.
+     > In projects 8.1, 8.2, 8.3, and 8.4 skills from the Cleaning and Formatting, and Data Analysis lessons are showcased. Starting with Logical Statements with the Hotel Bookings Dataset, Then some work with VLOOKUP using Minimum Wage data. The Nesting Project with School Rankings not only showcases INDEX and MATCH functions but is pulling data from multiple sheets too. Finally, the fourth project is a combination of a few functions and formulas to highly changes from 2018 and 2019 using World Socio-economic Data.
      
     Soon to come: Excel, SQL, Tableau, and Python Projects and Course Notes. 
      > See Tableau Public Profile for Projects.
