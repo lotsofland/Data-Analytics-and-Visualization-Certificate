@@ -39,14 +39,12 @@ Thank you for taking interest in Nicholas' GitHub Portfolio. In this Repository 
 
 5. Data Visualization with Excel, Tableau, and PowerPoint
      1. Introduction to Visualization with Excel.
-     2. Excel Visualization examples.
-     3. Visualization with Tableau.
+     2. Excel Visualization examples. See following files for examples of technical skills. 
+     3. Visualization with Tableau. See Tableau Public Profile for project showcase and dashboard. 
      4. Presentation Best Practices when using Powerpoint to highlight results and learnings from analysis projects.
-     5. Projects from the Excel Module to showcase skills with various charts and graphs.
    
-    Soon to come: Python Projects. 
-     > See Tableau Public Profile for Projects.
-     
+    Soon to come: Python Projects.
+   
      > Notes for Python coming soon.
      
      > All portions of the Certificate completed, except Python which is currently in progress. 
