@@ -31,9 +31,16 @@ Thank you for taking interest in Nicholas' GitHub Portfolio. In this Repository 
      3. Data Analysis with SQL
           > Analysis tools such as GROUP BY, TIME and DATE commands, STRING commands, CAST and DISTINCT commands. We also review the difference between HAVING AND WHERE.
 
-    Soon to come: Tableau, and Python Projects. 
+4. Introduction to Data Visualization
+     1. Data Visualization Essentials. Definitions, etc.
+     2. Introduction to Data Visualization, an indepth look at the final step of the Data Analysis process.
+     3. Examples of Data Visualization Types.
+     4. Interpreting visualizations and making conclusions, recommendations based on analysis, storytelling with the data.
+     5. Presentation Best Practices when using Powerpoint to highlight results and learnings from analysis projects.
+  
+    Soon to come: Python Projects. 
      > See Tableau Public Profile for Projects.
      
-     > Notes for Python and Tableau coming soon.
+     > Notes for Python coming soon.
      
      > All portions of the Certificate completed, except Python which is currently in progress. 
