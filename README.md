@@ -3,7 +3,9 @@
 Thank you for taking interest in Nicholas' GitHub Portfolio. In this Repository you will find the projects and accomplishments of the Data Analytics and Visualization Certificate program. 
 
 -- Table of Contents --
+
 1. Intro to Data Analytics
+   
      1. Data Analytics and Visualization Outline.
           > This document is a broad overview of the course timeline responsibilities.
      2. Qualitative vs. Quantitative Data.
@@ -12,6 +14,7 @@ Thank you for taking interest in Nicholas' GitHub Portfolio. In this Repository 
           > Collect, Clean, Analyze, Visualize.
 
 2. Data Analytics with Excel
+
      1. Excel Tools
           > Spreadsheet tools for data analysis.
      2. Excel Functions and Formulas
@@ -24,6 +27,7 @@ Thank you for taking interest in Nicholas' GitHub Portfolio. In this Repository 
           > The technical skills of the four projects from the Cleaning and Formatting, and Data Analysis lessons are showcased. Starting with Logical Statements with the Hotel Bookings Dataset, Then some work with VLOOKUP using Minimum Wage data. The Nesting Project with School Rankings not only showcases INDEX and MATCH functions but is pulling data from multiple sheets too. Finally, the fourth project is a combination of a few functions and formulas to highly changes from 2018 and 2019 using World Socio-economic Data.
 
 3. Data Analytics with SQL
+ 
      1. Introduction to Relational Databases
           > In this lesson we move away from Excel and Tabular Databases into Relational Databases and Relational Database Management Systems like PostgreSQL. We are introduced to SQL structure, including: Statments, Query, and Clauses, as well as SQL Syntax and Data Types. Basics such as SELECT, FROM, LIMIT, and WHERE commands are introduced.
      2. Cleaning Data with SQL
@@ -32,12 +36,14 @@ Thank you for taking interest in Nicholas' GitHub Portfolio. In this Repository 
           > Analysis tools such as GROUP BY, TIME and DATE commands, STRING commands, CAST and DISTINCT commands. We also review the difference between HAVING AND WHERE.
 
 4. Introduction to Data Visualization
+
      1. Data Visualization Essentials. Definitions, etc.
      2. Introduction to Data Visualization, an indepth look at the final step of the Data Analysis process.
      3. Examples of Data Visualization Types.
      4. Interpreting visualizations and making conclusions, recommendations based on analysis, storytelling with the data.
 
 5. Data Visualization with Excel, Tableau, and PowerPoint
+   
      1. Introduction to Visualization with Excel.
      2. Excel Visualization examples. See following files for examples of technical skills. 
      3. Visualization with Tableau. See Tableau Public Profile for project showcase and dashboard. 
@@ -47,4 +53,4 @@ Thank you for taking interest in Nicholas' GitHub Portfolio. In this Repository 
    
      > Notes for Python coming soon.
      
-     > All portions of the Certificate completed, except Python which is currently in progress. 
+     > All portions of the Certificate completed. 
