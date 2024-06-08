@@ -53,4 +53,4 @@ Thank you for taking interest in Nicholas' GitHub Portfolio. In this Repository 
    
      > Notes for Python coming soon.
      
-     > All portions of the Certificate completed. 
+     > All portions of the Certificate Program are completed. 
